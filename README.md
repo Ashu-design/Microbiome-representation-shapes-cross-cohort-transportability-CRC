@@ -1,4 +1,4 @@
-# Gut_Publication1
+# Gut_Publication
 
 A notebook workflow for **colorectal cancer (CRC) gut metagenomics benchmarking and publication-ready analysis** using datasets from **curatedMetagenomicData / ExperimentHub**.
 
