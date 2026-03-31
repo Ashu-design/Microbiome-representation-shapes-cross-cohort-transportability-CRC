@@ -13,7 +13,7 @@ This project focuses on:
 
 ## Notebook
 
-Main notebook: `Gut_Publication1.ipynb`
+Main notebook: `Gut_Publication.ipynb`
 
 The notebook is organized into the following sections:
 
@@ -49,7 +49,4 @@ The notebook is organized into the following sections:
 
 ## Expected environment
 
-The notebook appears to be written primarily for **Google Colab**, based on paths such as:
-
-```bash
-/content/curatedMetagenomicData_EH
+The notebook was written primarily for **Google Colab**, based on paths such as:
