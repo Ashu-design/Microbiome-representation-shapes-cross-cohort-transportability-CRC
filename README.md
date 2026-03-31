@@ -49,4 +49,4 @@ The notebook is organized into the following sections:
 
 ## Expected environment
 
-The notebook was written primarily for **Google Colab**, based on paths such as:
+The notebook was written primarily for **Google Colab**.
